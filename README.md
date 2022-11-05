@@ -1,4 +1,4 @@
-# 🚀 Developer Community stats
+# 🚀 Developer Community Stats
 
 ![Contributors](https://img.shields.io/github/contributors/subeshb1/developer-community-stats)
 ![Closed PR](https://img.shields.io/github/issues-pr-closed/subeshb1/developer-community-stats)
@@ -18,7 +18,7 @@ A repository to encourage beginners to contribute to open source and for all con
 
 ### Contributing to Open issues and Challenges
 
-The repository consists of Open issues encouraging beginners to take their first step to contribute to Open source. If you have any ideas regarding challenges, suggestions or feedback don't feel hesitant, create some issues.
+The repository consists of Open issues encouraging beginners to take their first step to contribute to Open Source. If you have any ideas regarding challenges, suggestions or feedback don't feel hesitant, create some issues.
 
 When contributing to an issue be sure to read through the description and follow the steps and make sure all the builds in the PR succeed.
 
